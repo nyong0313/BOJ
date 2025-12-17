@@ -1,0 +1,19 @@
+# 빌드 결과물
+/build
+/out
+
+# 환경 변수
+.env
+.env.*
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# 로그
+*.log
+
+# parse task
+.txt
+.cph
